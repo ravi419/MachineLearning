@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DecisitionTree.iml" filepath="$PROJECT_DIR$/.idea/DecisitionTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KNN/.idea/KNN.iml" filepath="$PROJECT_DIR$/../KNN/.idea/KNN.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Perceptron/.idea/Perceptron.iml" filepath="$PROJECT_DIR$/../Perceptron/.idea/Perceptron.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lin_reg/.idea/lin_reg.iml" filepath="$PROJECT_DIR$/../lin_reg/.idea/lin_reg.iml" />
       <module fileurl="file://$PROJECT_DIR$/../naivebase/.idea/naivebase.iml" filepath="$PROJECT_DIR$/../naivebase/.idea/naivebase.iml" />

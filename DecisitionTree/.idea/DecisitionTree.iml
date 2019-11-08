@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="lin_reg" />
     <orderEntry type="module" module-name="Perceptron" />
     <orderEntry type="module" module-name="naivebase" />
+    <orderEntry type="module" module-name="KNN" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
