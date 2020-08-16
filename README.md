@@ -1,2 +1,2 @@
 # MachineLearning
-This repository contains ML Programming Tasks
+This repository contains ML Programming Tasks.
